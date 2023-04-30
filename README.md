@@ -1,0 +1,1 @@
+Building first webpage for The Odin Project.  I'm a little nervous but think I can figure this out.  The website will feature several recipes.  I will practice setting up an index file, folder structure, and load text content, images and links. 
